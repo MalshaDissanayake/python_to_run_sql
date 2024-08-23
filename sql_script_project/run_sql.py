@@ -5,8 +5,8 @@ import psycopg2
 connection_params = {
     "host": "localhost",
     "database": "postgres",
-    "user": "postgres",
-    "password": "POSTGRESmalsha@3"
+    "user": "username",
+    "password": "password"
 }
 
 # Read SQL file
